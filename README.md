@@ -64,12 +64,12 @@ With hands-on experience in **React.js, Next.js, Node.js, and Express.js**, I sp
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayanandsrivastava&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayanandsrivastava&theme=radical" alt="streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajay-anand-dev&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-anand-dev&theme=radical" alt="streak" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayanandsrivastava&layout=compact&theme=radical" alt="languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-anand-dev&layout=compact&theme=radical" alt="languages" height="150"/>
 </p>
 
 ---
