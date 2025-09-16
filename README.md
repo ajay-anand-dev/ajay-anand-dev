@@ -8,7 +8,7 @@
 I’m a passionate **MERN Stack Developer** who loves building scalable, high-performance applications.  
 With hands-on experience in **React.js, Next.js, Node.js, and Express.js**, I specialize in creating smooth, user-friendly interfaces and reliable backend systems.  
 
-- 🌱 Currently mastering **MERN Stack & Cloud Deployments (Azure, AWS, Vercel, Netlify)**  
+- 🌱 Currently pursuing **Master's in Artificial Intelligence and Machine Learning**
 - 💡 Strong expertise in **frontend frameworks, backend APIs, and database integration**  
 - ⚡ Passionate about building **scalable web apps** and writing **clean, optimized code**  
 - 🎯 Goal: Contribute to **open-source** and work on **enterprise-scale applications**  
@@ -65,7 +65,7 @@ With hands-on experience in **React.js, Next.js, Node.js, and Express.js**, I sp
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajay-anand-dev&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-anand-dev&theme=radical" alt="streak" height="150"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-anand-dev&theme=radical" alt="streak" height="150"/> -->
 </p>
 
 <p align="center">
