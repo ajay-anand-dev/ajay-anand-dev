@@ -64,8 +64,8 @@ With hands-on experience in **React.js, Next.js, Node.js, and Express.js**, I sp
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajay-anand-dev&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-anand-dev&theme=radical" alt="streak" height="150"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ajay-anand-dev&show_icons=true&theme=radical" alt="stats" height="150"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-anand-dev&theme=radical" alt="streak" height="150"/>
 </p>
 
 <p align="center">
