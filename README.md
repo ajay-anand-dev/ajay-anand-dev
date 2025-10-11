@@ -13,7 +13,7 @@ With hands-on experience in **React.js, Next.js, Node.js, and Express.js**, I sp
 - ⚡ Passionate about building **scalable web apps** and writing **clean, optimized code**  
 - 🎯 Goal: Contribute to **open-source** and work on **enterprise-scale applications**  
 - 📚 Always exploring **TypeScript, GraphQL, and cloud-native architectures**  
-- 🌐 Portfolio: [ajayanandsrivastava.in](https://ajayanandsrivastava.in)  
+- 🌐 Portfolio: [ajayanandsrivastava.onrender.com](https://ajayanandsrivastava.onrender.com/)  
 
 ---
 
